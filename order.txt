@@ -1,0 +1,6 @@
+1,lekha,2020/04/18 15:01:55,1,Bread,1,99.0,105.0,Thank You
+3,lekha,2020/04/18 16:15:26,2,Strawberries,1,Salt,1,119.0,178.5,Thank You,
+4,rohit,2020/04/18 16:18:27,2,Bread,1,Sugar,1,150.0,225.0,Thank You,
+5,arzaan,2020/04/18 16:23:46,1,Banana,1,99.0,148.5,Thank You,
+5,rohit,2020/04/18 16:54:10,2,Banana,1,Watermelon,1,168.0,252.0,Thank You,
+6,happy,2020/04/18 17:42:09,1,Banana,1,99.0,148.5,Thank You,

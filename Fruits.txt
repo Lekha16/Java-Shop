@@ -1,0 +1,11 @@
+Apple,500 GMS,99.0,France,0
+Banana,1 dozen,99.0,UAE,73
+Watermelon,1 Piece,69.0,India,91
+Peaches,500 GMS,19.0,Switzerland,92
+Apricots,250 GMS,99.5,2K Turkey,96
+Strawberries,250 GMS,69.0,Prague,91
+Mulberries,250 GMS,67.0,Prague,96
+Raspberries,250 GMS,67.0,Prague,99
+Orange,500 gms,100.0,Spain,1
+Ramphal,1 piece,100.0,India,100
+

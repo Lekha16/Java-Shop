@@ -1,0 +1,8 @@
+Onion,500 GMS,India,30,11.0
+Potato,500 GMS,India,28,10.0
+Tomato,500 GMS,Spain,100,12.5
+LadyFinger,250 GMS,India,75,9.0
+Spinach,200 GMS,Turkey,26,9.0
+Carrots,500 GMS,UAE,5,11.0
+Lemongrass,1 bunch,france,1,100.0
+
